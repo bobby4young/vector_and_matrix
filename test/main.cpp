@@ -2,8 +2,8 @@
 #include <climits>
 #include <chrono> 
 
-#include "../vector.hpp"
-#include "../matrix.hpp"
+#include "vector.hpp"
+#include "matrix.hpp"
 
 template <class T>
 void printVector(const Vector<T> v) {
